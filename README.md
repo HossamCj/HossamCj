@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm been learning to code for 3 years, after switching careers. I started with Python language, I liked it so much and really found the passion for making small apps, but after like a year and half I figure out from reading about the software world that I have to be specialist in one or 2 related fields from the tech industry, So I start learning about the web and learning HTML, CSS, JavaScript and My favorite JS library "React", And Yes I'm that developer that has an ambition to continue learning .
+I am a front-end developer with a passion for web development. I have experience in JavaScript, React.js and web development tools. My expertise lies in building user-friendly interfaces and I am experienced in version control systems and best practices.
+
+On my profile, you'll find a variety of open-source projects that I've contributed to. These projects showcase my skills and experience as a developer, and demonstrate my ability to collaborate and contribute to a team.
+
+I am always open to feedback and suggestions, so please feel free to reach out to me if you have any questions or comments about my projects. I am also open to new opportunities, so if you like my work and think that I would be a good fit for your project, please don't hesitate to contact me.
+
+Thank you for visiting my profile and I hope you enjoy exploring my projects!
 
 * 🌍  I'm based in Cairo
 * 🖥️  See my portfolio at [MyPortfolio](http://cj-portfolio1.netlify.app)
