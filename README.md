@@ -1,24 +1,26 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hossam Hassan, You call me Cj
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hossam Hassan
 =====================================================================================================================================================
 
-Frontend Developer
+Full Stack Developer
 ------------------
 
-I am a front-end developer with a passion for web development. I have experience in JavaScript, React.js and web development tools. My expertise lies in building user-friendly interfaces and I am experienced in version control systems and best practices.
+Welcome to my GitHub profile! I'm a web developer passionate about building dynamic and user-centric applications. With a solid foundation in technologies like React, Redux, and Redux Toolkit, I'm dedicated to crafting engaging and seamless user experiences.
 
-On my profile, you'll find a variety of open-source projects that I've contributed to. These projects showcase my skills and experience as a developer, and demonstrate my ability to collaborate and contribute to a team.
+My toolkit also includes Next.js for creating performant and SEO-friendly web applications. I'm no stranger to the backend either, with skills in Node.js and Nest.js for building robust server-side logic and APIs.
 
-I am always open to feedback and suggestions, so please feel free to reach out to me if you have any questions or comments about my projects. I am also open to new opportunities, so if you like my work and think that I would be a good fit for your project, please don't hesitate to contact me.
+Data management? Covered! I'm familiar with MongoDB, harnessing its power to efficiently store and retrieve data, giving life to applications behind the scenes.
 
-Thank you for visiting my profile and I hope you enjoy exploring my projects!
+Join me on my coding journey as I continue to learn, collaborate, and create. Let's build the future together, one line of code at a time! 🚀🌟
+
+Feel free to connect and explore my projects as I embrace the world of web development.
 
 * 🌍  I'm based in Cairo
 * 🖥️  See my portfolio at [MyPortfolio](http://cj-portfolio1.netlify.app)
 * ✉️  You can contact me at [hossamcj@gmail.com](mailto:hossamcj@gmail.com)
-* 🚀  I'm currently working on LEARNING REDUX TOOLKIT
+* 🚀  I'm currently working on [Task: Frontend Development for E-commerce Website using React.js]
 * 🧠  I'm learning React/Redux\_Toolkit/
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm A Parkour Athlete, Don't Tell Everyone 🤫
+* ⚡  I'm A Parkour Athlete, Don't tell anyone 🤫
 
 ### Skills
 
