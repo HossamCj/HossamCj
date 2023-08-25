@@ -15,10 +15,10 @@ Thank you for visiting my profile and I hope you enjoy exploring my projects!
 * 🌍  I'm based in Cairo
 * 🖥️  See my portfolio at [MyPortfolio](http://cj-portfolio1.netlify.app)
 * ✉️  You can contact me at [hossamcj@gmail.com](mailto:hossamcj@gmail.com)
-* 🚀  I'm currently working on [Javascript-30-coding-challenge](http://github.com/HossamCj/javascript-30-coding-challenge)
-* 🧠  I'm learning React/Redux\_Toolkit/SASS/Ajax\_and\_Fetch
+* 🚀  I'm currently working on LEARNING REDUX TOOLKIT
+* 🧠  I'm learning React/Redux\_Toolkit/
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I Am A Parkour Athlete, Tell Everyone
+* ⚡  I'm A Parkour Athlete, Don't Tell Everyone 🤫
 
 ### Skills
 
