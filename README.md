@@ -1,18 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hossam Hassan
 =====================================================================================================================================================
 
-Full Stack Developer
+Software Full Stack Developer 
 ------------------
 
-Welcome to my GitHub profile! I'm a web developer passionate about building dynamic and user-centric applications. With a solid foundation in technologies like React, Redux, and Redux Toolkit, I'm dedicated to crafting engaging and seamless user experiences.
 
-My toolkit also includes Next.js for creating performant and SEO-friendly web applications. I'm no stranger to the backend either, with skills in Node.js and Nest.js for building robust server-side logic and APIs.
+Software Full Stack Developer | MERN | Redux Toolkit, Next.js, Nest.js | Passionate about Design Patterns | Data Enthusiast | JavaScript & Python Explorer 🚀
 
-Data management? Covered! I'm familiar with MongoDB, harnessing its power to efficiently store and retrieve data, giving life to applications behind the scenes.
-
-Join me on my coding journey as I continue to learn, collaborate, and create. Let's build the future together, one line of code at a time! 🚀🌟
-
-Feel free to connect and explore my projects as I embrace the world of web development.
 
 * 🌍  I'm based in Cairo
 * 🖥️  See my portfolio at [MyPortfolio](http://cj-portfolio1.netlify.app)
