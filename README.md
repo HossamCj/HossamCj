@@ -11,8 +11,8 @@ Software Full Stack Developer | MERN | Redux Toolkit, Next.js, Nest.js | Passion
 * 🌍  I'm based in Cairo
 * 🖥️  See my portfolio at [MyPortfolio](http://cj-portfolio1.netlify.app)
 * ✉️  You can contact me at [hossamcj@gmail.com](mailto:hossamcj@gmail.com)
-* 🚀  I'm currently working on [Task: Frontend Development for E-commerce Website using React.js]
-* 🧠  I'm learning React/Redux\_Toolkit/
+* 🚀  I'm currently working on [react-Redux-crud-bookstore](https://github.com/HossamCj/react-Redux-crud-bookstore)
+* 🧠  I'm learning React/Redux\_Toolkit
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm A Parkour Athlete, Don't tell anyone 🤫
 
@@ -33,14 +33,4 @@ Software Full Stack Developer | MERN | Redux Toolkit, Next.js, Nest.js | Passion
 
 <p align="left"> <a href="https://www.github.com/HossamCj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hossam-hassan-mohamed-738420145/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/HossamCj"><img src="https://github-readme-stats.vercel.app/api?username=HossamCj&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HossamCj's GitHub stats" /></a>
-
-<a href="http://www.github.com/HossamCj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HossamCj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/HossamCj"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HossamCj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/HossamCj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamCj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
