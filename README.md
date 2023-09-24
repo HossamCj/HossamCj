@@ -11,7 +11,7 @@ Software Full Stack Developer | MERN | Redux Toolkit, Next.js, Nest.js | Passion
 * 🌍  I'm based in Cairo
 * 🖥️  See my portfolio at [MyPortfolio](http://cj-portfolio1.netlify.app)
 * ✉️  You can contact me at [hossamcj@gmail.com](mailto:hossamcj@gmail.com)
-* 🚀  I'm currently working on [react-Redux-crud-bookstore](https://github.com/HossamCj/react-Redux-crud-bookstore)
+* 🚀  I'm currently working on [redux-crud-router-app](https://github.com/HossamCj/redux-crud-router-app)
 * 🧠  I'm learning React/Redux\_Toolkit
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm A Parkour Athlete, Don't tell anyone 🤫
